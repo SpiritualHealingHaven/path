@@ -40,3 +40,18 @@ This folder contains a simple static website built with `index.html`, `style.css
 - The website is static, so no backend is required.
 - The root file is `index.html` and the CSS is in `style.css`.
 - If you want, I can also create a GitHub repository structure or help with a custom domain setup.
+
+## Live site
+
+- The site is published and available at: https://SpiritualHealingHaven.github.io/path/
+
+## What I verified
+
+- Pages branch: `gh-pages` was pushed and exists on the remote.
+- Static assets `style.css` and `script.js` load with HTTP 200 responses.
+
+## Next steps you may want me to take for full readiness
+
+- Enable **Enforce HTTPS** in Settings → Pages (requires GitHub access via web or a PAT).
+- Add a `CNAME` if you want a custom domain.
+- Run accessibility and SEO checks if you want deeper validation.
